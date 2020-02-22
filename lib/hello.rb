@@ -4,9 +4,9 @@ def hello_t(array)
   yield (array[i])
     i = i + 1
   end
-    array
-else 
-  puts "Hey! No black was given!"
+  array
+  else 
+    puts "Hey! No black was given!"
   end
 end
 
