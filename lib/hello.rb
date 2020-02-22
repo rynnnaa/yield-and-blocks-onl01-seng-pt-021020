@@ -5,8 +5,8 @@ def hello_t(array)
     i = i + 1
   end
     array
-  else 
-    puts "Hey! No black was given!"
+else 
+  puts "Hey! No black was given!"
   end
 end
 
